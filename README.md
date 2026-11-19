@@ -11,9 +11,13 @@
 
 Me interesan estas dos áreas: DevOps porque me gusta configurar toda la infraestructura, y embebidos porque me acerca al hardware y me permite usar mis lenguajes favoritos, **C** y **C++**.
 
+🛠️ **Actualmente:** configurando una infraestructura de **Jenkins** con sus nodos para el pipeline principal de mi trabajo.
+
 🇺🇸 I'm a Software Engineering student at **UABC**, about to graduate. I currently work in **DevOps** and **embedded systems**, mainly DevOps with Jenkins, Docker and Linux/Windows Server.
 
 I'm interested in both areas: DevOps because I enjoy setting up the whole infrastructure, and embedded because it brings me closer to the hardware and lets me use my favorite languages, **C** and **C++**.
+
+🛠️ **Currently:** setting up a **Jenkins** infrastructure with its nodes for my team's main pipeline at work.
 
 ## 🧰 Stack
 
